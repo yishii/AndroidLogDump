@@ -1,3 +1,11 @@
+/*
+  Android dump log utility class
+
+  Created by Yasuhiro ISHII
+
+  This software is distributed under the Apache 2.0 license.
+*/
+
 package jp.yishii.android.logdump;
 
 import android.util.Log;
